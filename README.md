@@ -1,5 +1,5 @@
-- 👋 Hi, we're @HexxedBitHeadz
+- 👋 Hi, we're @HexxedBitHeadz!
 - 👀 We're interested in ... Pentesting / red team activites and python!
-- 🌱 I’m currently learning ...  Flipper Zero, python coding
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...   HexxedBitHeadz@gmail.com
+- 🌱 We’re currently learning ...  Flipper Zero, python coding, pentesting
+- 💞️ We’re looking to collaborate on ... making pentesting tools for fun
+- 📫 How to reach us ...   HexxedBitHeadz@gmail.com
