@@ -1,11 +1,11 @@
 - 👋 Hi, we're @HexxedBitHeadz!
 - 👀 We're interested in ...             pentesting / red team activites and python!
-- 🌱 We’re currently learning ...        flipper Zero, python coding, pentesting
+- 🌱 We’re currently learning ...        Red Team Operator LVL1, Linux ricing, malware development
 - 💞️ We’re looking to collaborate on ... making pentesting tools for fun!
-- 📫 How to reach us ...                 HexxedBitHeadz@gmail.com
+- 📫 How to reach us ...                 info@HexxedBitHeadz.com
 
-Hello, I am Aromak! I've been studying red team / pentesting for a few years now, recently obtained OSCP and OSWP certifications along with a few others.  Now just looking to reflect on such lessons while finding fun with python coding.  HexxedBitHeadz consists of just a few like-minded individuals looking for creative ways to become more involved in the world of cyber :)
+Hello, we're Hexxed BitHeadz!  We are currently studying red team cyber topics, ranging from OSCP to Red Team Operator, with malware development around the corner.  We have a site at https://hexxedbitheadz.com where we post topics once a month, and technical blogs a few times a year.  We have just ordered our first Rasberry Pi 5's, and cannot wait to jump and set up some hack-y stuff!
 
-Right now, we are focused on the release of our first pentest-focused tool, Amos, going public on June 4th, 2023.  Thanks for checking us out!
+ HexxedBitHeadz consists of just a few like-minded individuals looking for creative ways to become more involved in the world of cyber.
 
 ![HeBi](https://github.com/HexxedBitHeadz/HexxedBitHeadz/blob/main/Cyberpunk%20Gorilla-SMALL.png)
