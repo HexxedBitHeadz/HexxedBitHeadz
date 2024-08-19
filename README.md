@@ -1,5 +1,5 @@
 - 👋 Hi, we're @HexxedBitHeadz!
-- 👀 We're interested in ...             pentesting / red
+- 👀 We're interested in ...             pentesting / red team shenanigans
 
 Be sure to check us out at https://www.hexxedbitheadz.com 
 
