@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="Cyberpunk Gorilla-SMALL.png" alt="Hexxed BitHeadz" width="180" />
+  <img src="Logo-Circle.png" alt="Hexxed BitHeadz" width="180" />
 </p>
 
 <h1 align="center">Hexxed BitHeadz</h1>
